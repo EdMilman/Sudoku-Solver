@@ -1,5 +1,5 @@
 """
-Edward Milman - emilma01@dcs.bbk.ac.uk
+Edward Milman
 a program to solve simple sudoku problems. user will be prompted to enter a filename of a file
 containing a sudoku problem in the form of a list of lists.
 """
